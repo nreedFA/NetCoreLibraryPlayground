@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace NetCoreLibraryPlayground
 {
     [TestClass]
-    public class Class1
+    public class NetCoreLibraryPlaygroundTests
     {
         [TestMethod]
         public void TestMethod1()
